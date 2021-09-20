@@ -1,0 +1,236 @@
+{
+  "electronice": {
+    "items": [
+      {
+        "id": 1,
+        "name": "Televizor JVC LT-50VA3000, 126 cm, Smart Android",
+        "price": 5000,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/32091/32090704/images/res_2245e1abfd322f08286f2cf1b600305d.jpg",
+        "Diagonala": "126 cm",
+        "colour": "Negru",
+        "Rezolutie": "4k",
+        "brand": "Jvc",
+        "description": "Accesati fiecare detaliu in fiecare colt al ecranului cu o gama larga de culori mai clare."
+      },
+      {
+        "id": 2,
+        "name": "Televizor Philips 50PUS7805/12, Smart, 4K Ultra HD",
+        "price": 1000,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/32366/32365341/images/res_6ba1477d7aee9962c000f7bd01ba0587.jpg",
+        "Diagonala": "140cm",
+        "colour": "Negru",
+        "Rezolutie": "4k",
+        "brand": "Philips",
+        "description": "Procesorul Philips P5 Perfect Picture ofera o imagine la fel de superba precum continutul care iti place."
+      },
+      {
+        "id": 3,
+        "name": "Televizor LG 43UN74003LB, 108 cm, Smart, 4K Ultra HD, LED, Clasa A ",
+        "price": 1999,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/30050/30049466/images/res_9d164bb8b0c0bb9356316a877385fb88.jpg",
+        "Diagonala": 140,
+        "colour": "Negru",
+        "Rezolutie": "4k",
+        "brand": "LG",
+        "description": "Televizorul UHD LG a fost creat pentru divertisment, aducand tot ce vrei sa urmaresti la un alt nivel."
+      }
+    ],
+    "image": "https://s13emagst.akamaized.net/products/30050/30049467/images/res_940e6ad339423ec13a79fee2ba0a7ae5.jpg",
+    "name": "Televizoare",
+    "description": "Profita de oferta la toata gama de Televizoare"
+  },
+  "canapele": {
+    "items": [
+      {
+        "id": 4,
+        "name": "Canapea extensibila Click-Clack Best Sleep",
+        "price": 649,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/31730/31729886/images/res_cc7b0b30b5f730d35fcb2242b88af221.jpg",
+        "size": "L",
+        "colour": "Albastru",
+        "material": "Cașmir",
+        "brand": "Mandala",
+        "description": "Canapeaua noastra Clic Clac poate fi utilizat atat ca si canapea in camera de zi, cat si ca pat. Este un produs ideal pentru spatii mici ca si apartamente tineret, birouri, camere pentru copii, camere de oaspeti, sau pentru apartamente destinate inchirierii."
+      },
+      {
+        "id": 5,
+        "name": "Canapea extensibila Click-Clack Best Sleep Red",
+        "price": 749,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/14495/14494794/images/res_8171302b4afa3af0f36fb1174d9de544.jpg",
+        "size": "L",
+        "colour": "Rosu",
+        "material": "Bumbac",
+        "brand": "Mandala",
+        "description": "Canapeaua este prevazuta cu doua perne pentru decor dar care au si rol functional putand sevi ca si brate laterale in varianta canapea, respectiv perne pentru dormit in cazul patului."
+      },
+      {
+        "id": 6,
+        "name": "Canapea Click Clack The Sofa Bonjournee Black",
+        "price": 749,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/15572/15571016/images/res_7384c2595d321c701304d76b6c73fa85.jpg",
+        "size": "L",
+        "colour": "Black",
+        "material": "Lână",
+        "brand": "Mandala",
+        "description": "Canapeaua Click Clack The Sofa Bonjournee Black Petite este moderna si eleganta potrivita pentru amenajari interioare indraznete putand fi utilizata atat ca si canapea pentru camera de zi, cat si ca pat pentru odihna si relaxare."
+      },
+      {
+        "id": 7,
+        "name": "Canapea extensibil deschisa 120x190 cm Casa 2 perne",
+        "price": 949,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/18233/18232110/images/res_46eaa333fbd182bdfae3c73f7d0c70c0.jpg",
+        "size": "L",
+        "colour": "Mov",
+        "material": "Lână",
+        "brand": "Concept",
+        "description": "Casa este o canapea extensibila cu 3 locuri,confectionata din spuma polieuretanica de inalta densitate si calitate,tapitata cu  stofa  de foarte buna calitate. "
+      }
+    ],
+    "image": "https://s13emagst.akamaized.net/products/33917/33916717/images/res_cbbc661b7024344e095ef3a7ca433d79.jpg",
+    "name": "Canapele",
+    "description": "Oferta imbatabila pentru cele mai noi modele de canapele."
+  },
+  "laptop": {
+    "items": [
+      {
+        "id": 8,
+        "name": "Laptop ultraportabil ASUS E410MA",
+        "price": 1549,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/34155/34154478/images/res_65d41f86ec095384e6dddd88cd68243f.jpg",
+        "size": "15.6",
+        "colour": "Negru",
+        "material": "Plastic",
+        "brand": "Asus",
+        "description": "Laptop ultraportabil ASUS E410MA cu procesor Intel® Celeron® N4020 pana la 2.80 GHz, 14\", Full HD, 4GB, 256GB SSD, Intel® UHD Graphics 600, Free DOS, Peacock Blue."
+      },
+      {
+        "id": 9,
+        "name": "Laptop Apple MacBook Air 13",
+        "price": 4399,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/7956/7955582/images/res_b26c819ded922348fa27b909d1831cb7.jpg",
+        "size": "13",
+        "colour": "Gri",
+        "material": "Aluminiu",
+        "brand": "MacBook",
+        "description": "Laptop Apple MacBook Air 13 cu procesor Intel® Dual Core™ i5 1.80GHz, 13.3\", 8GB, 128GB SSD, Intel® HD Graphics 6000, INT KB, Silver ."
+      }
+    ],
+    "image": "https://s13emagst.akamaized.net/products/33874/33873204/images/res_c022f93ef4f035a06a8c32ecd5dc8385.jpg",
+    "name": "Laptopuri",
+    "description": "Gama variata de laptopuri la preturi fara egal!"
+  },
+  "ceasuri": {
+    "items": [
+      {
+        "id": 10,
+        "name": "Ceas smartwatch Samsung Galaxy Watch",
+        "price": 903,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/16619/16618167/images/res_135d96c8543b04dfdcb66949b68087c2.jpg",
+        "size": "L",
+        "colour": "Negru",
+        "material": "Cauciuc",
+        "brand": "Samsung",
+        "description": "Ramai conectat mai mult timp. Caracteristicile unui smartwatch si sentimentul natural al unui ceas analog intr-un singur pachet. Galaxy Watch te conecteaza la lumea din jurul tau."
+      },
+      {
+        "id": 11,
+        "name": "Ceas smartwatch Samsung Galaxy Watch3",
+        "price": 1599,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/31640/31639984/images/res_bb8b285bf0554f66872732697f5d2c2a.jpg",
+        "size": "L",
+        "colour": "Negru",
+        "material": "Piele",
+        "brand": "Samsung",
+        "description": "Ceasul care are grija de tine. Galaxy Watch3 combina productivitatea la nivel de smartphone si tehnologia de varf in domeniul sanatatii intr-un singur dispozitiv premium si clasic. Cel mai avansat ceas Galaxy de pana acum, Galaxy Watch3 te ajuta sa iti gestionezi fara efort viata si sanatatea - oferindu-ti controlul asupra starii tale de bine."
+      }
+    ],
+    "image": "https://s13emagst.akamaized.net/products/18063/18062246/images/res_935a11de3f5f6cccafe1d07f74c8c372.jpg",
+    "name": "Ceasuri",
+    "description": "Fii mereu punctual cu noile noastre ceasuri!"
+  },
+  "casti": {
+    "items": [
+      {
+        "id": 12,
+        "name": "Casti Apple AirPods 2",
+        "price": 755,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/21114/21113101/images/res_90440195468b1f4f121813a36324bc5d.jpeg",
+        "size": "Universal",
+        "colour": "Alb",
+        "material": "Plastic",
+        "brand": "Apple",
+        "description": "Acum, cu mai mult timp de convorbire castile AirPods ofera o experienta de auditie fara egal. Doar le scoti din cutie si sunt gata sa fie folosite cu toate dispozitivele tale. Pune-le in urechi si se conecteaza imediat, invaluindu-te cu un sunet bogat, de inalta calitate. Ca prin magie."
+      },
+      {
+        "id": 13,
+        "name": "Casti Apple AirPods Pro",
+        "price": 1115,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/26669/26668250/images/res_25452c9cc71d1d7c1146cda73239cb2d.jpg",
+        "size": "Universal",
+        "colour": "Alb",
+        "material": "Plastic",
+        "brand": "Apple",
+        "description": "Anulare activa a zgomotului cu mod Transparenta, rezistenta la apa si transpiratie si potrivire personalizabila."
+      },
+      {
+        "id": 14,
+        "name": "Casti bluetooth Samsung Galaxy",
+        "price": 544,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/28140/28139607/images/res_215b799d59bab769a213ba035c15a6e9.jpg",
+        "size": "Universal",
+        "colour": "Negru",
+        "material": "Plastic",
+        "brand": "Samsung",
+        "description": "Primele noastre casti wireless cu boxe pe doua cai concepute de AKG, cu sunete inalte de calitate, un sistem de trei microfoane adaptative pentru un sunet clar in timpul convorbirii si o durata mare de viata a bateriei, totul pentru o experienta de inalta calitate atunci cand asculti muzica sau vorbesti la telefon."
+      }
+    ],
+    "image": "https://s13emagst.akamaized.net/products/32392/32391996/images/res_97edf8f3b636f2d4304ad3db72300b9c.jpg",
+    "name": "Casti",
+    "description": "Bucura-te de muzica ta preferata si conversatii lungi."
+  },
+  "boxe-portabile": {
+    "items": [
+      {
+        "id": 15,
+        "name": "Boxa portabila JBL GO3, IPX67",
+        "price": 179,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/32627/32626269/images/res_97458c21db0614d70d487bc9acc46b2b.jpg",
+        "size": "-",
+        "colour": "Negru",
+        "material": "Plastic",
+        "brand": "JBL",
+        "description": "JBL Go 3 are un design indraznet si un sunet JBL Pro bogat. Cu noul sau design atragator, tesaturi colorate si detalii expresive, acesta este un accesoriu indispensabil pentru urmatoarea ta."
+      },
+      {
+        "id": 16,
+        "name": "Boxa Portabila Charge 3 Negru",
+        "price": 50,
+        "currency": "LEI",
+        "image": "https://s13emagst.akamaized.net/products/17593/17592892/images/res_13f9aa0cd1166c62298c861bf59bc7b8.jpg",
+        "size": "L",
+        "colour": "Negru",
+        "material": "Plastic",
+        "brand": "JJJ",
+        "description": "Difuzorul incorporat este echipat cu tehnologia de anulare a zgomotelor si ecoului, astfel apelurile preluate cat si muzica redata vor fi redate clar. Boxa se conecteaza la smartphone prin bluetooth si iti permite sa construiesti propriul ecosistem prin conectarea mai multor difuzoare pentru a amplifica experienta de ascultare."
+      }
+    ],
+    "image": "https://s13emagst.akamaized.net/products/4660/4659370/images/res_90bacc657972f6a6923ab56b14d0b6fb.jpg",
+    "name": "Boxe Portabile",
+    "description": "Vezi noua gama de boxe portabile!"
+  }
+}
